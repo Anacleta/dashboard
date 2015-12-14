@@ -1,0 +1,35 @@
+/**{outline: solid 1px green;}*/	
+.login{
+	background: #9c4c9d;
+}
+.avatar{
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	position: relative;
+	display: block;
+	margin: auto;
+}
+.cont-avatar{
+	width: 100%;
+}
+/*iconos ; corazon ,sobre,tc*/
+.plomizo{/*´color de fondo ++++++++++++++++++++++++++*/
+	background: #dfdfe1;
+}
+.corazon:hover{
+	background: white;
+	transition: 1s;
+	height: 150px;
+	top: 20px;
+	box-shadow: 2px 3px 2px rgba(0, 0, 0, 0.3);
+}
+.corazon{
+	text-align: center;
+	border-bottom: gray solid 1px;
+	margin: 10px 10px;
+}
+.icon{
+	font-size: 40px;
+	margin: 10px 0px;
+}
